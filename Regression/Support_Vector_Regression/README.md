@@ -9,6 +9,7 @@ from the problem. However, the main idea is always the same: to minimize error, 
 keeping in mind that part of the error is tolerated. But, Support Vectors are not used as often for Regression as they are for 
 classification.
 
+For more information: http://www.saedsayad.com/support_vector_machine_reg.htm
 
 ### Execution: -
 
