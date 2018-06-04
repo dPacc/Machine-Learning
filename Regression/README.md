@@ -16,10 +16,14 @@ Let's say that the H.R of a company asks the new hire about his previous jobs sa
 
 The job is to predict if the new hire was bluffing/telling the truth about his last drawn salary.
 
-We are going to predict above bluff/truth using :
+We are going to predict above bluff/truth using: -
+
 Polynomial-Regression.
+
 SVR.
+
 Decision-Tree-Regression.
+
 Random-Forest-Regression.
 
 ```
