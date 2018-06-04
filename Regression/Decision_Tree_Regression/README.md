@@ -16,6 +16,7 @@ a better tree.
 The algorithm uses the standard formula of variance to choose the best split. The split with lower variance is selected as the 
 criteria to split the population
 
+For more information: https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
 
 ### Execution: -
 
