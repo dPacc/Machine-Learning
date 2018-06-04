@@ -8,7 +8,7 @@ and
 
 <img src="https://github.com/dPacc/Machine-Learning/blob/master/Regression/Polynomial_Regression/Linear_Two.JPG">
 
-are both the linear models. In fact, they are the second order polynomials in one and two variables respectively.
+are both linear models. In fact, they are the second order polynomials in one and two variables respectively.
 
 The polynomial models can be used in those situations where the relationship between study and
 explanatory variables is curvilinear. Sometimes a nonlinear relationship in a small range of explanatory
