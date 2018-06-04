@@ -1,6 +1,6 @@
 # Position - Salary Predictor
 
-The dataset contains information about "various position levels" and it's corresponding salaries. This is a regression problem as
+The dataset contains information about various "position-levels" and it's corresponding "salaries". This is a regression problem as
 we have to predict a continuous value.
 
 Kaggle Link: https://www.kaggle.com/akram24/position-salaries
