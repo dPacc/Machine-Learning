@@ -28,7 +28,7 @@ run DTR_Pred.py
 
 OR
 
-Open the iPython notebook 'DTR_Pred.ipynb'
+Open the iPython notebook `DTR_Pred.ipynb`
 
 ```
 Open DTR_Pred.py
