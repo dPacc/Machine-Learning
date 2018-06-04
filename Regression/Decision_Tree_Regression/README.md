@@ -31,5 +31,5 @@ OR
 Open the iPython notebook `DTR_Pred.ipynb`
 
 ```
-Open DTR_Pred.py
+Open DTR_Pred.ipynb
 ```
