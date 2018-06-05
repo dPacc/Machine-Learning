@@ -9,7 +9,7 @@ that differentiates the two classes very well.
 
 SVMs are based on the idea of finding a hyperplane that best divides a dataset into two classes like shown below.
 
-<img src="https://github.com/dPacc/Machine-Learning/blob/master/Classification/Support_Vector_Machine/SVM_Graph.JPG">
+<img src="https://github.com/dPacc/Machine-Learning/blob/master/Classification/Support_Vector_Machine/SVM_Graph.JPG" class="center">
 
 
 For more information: https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
