@@ -1,6 +1,6 @@
 # Decision Tree Regression: -
 
-Tree based learning algorithms are known to be one of the best aalgorithms in Machine-Learning. Tree based methods empower 
+Tree based learning algorithms are known to be one of the best algorithms in Machine-Learning. Tree based methods empower 
 predictive models with high accuracy, stability and ease of interpretation. Unlike linear models, they map non-linear relationships 
 quite well and are adaptable at solving any kind of problem at hand (classification or regression).
 
